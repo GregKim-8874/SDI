@@ -1,0 +1,6 @@
+geopandas
+osmnx
+networkx
+pandas
+pyproj
+shapely
